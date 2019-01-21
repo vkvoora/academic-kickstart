@@ -18,14 +18,14 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 2
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
 widget_layout = 0
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = false
+flip_alt_rows = true
 
 # Filter toolbar.
 
@@ -40,12 +40,17 @@ filter_default = 0
 #   name = "All"
 #   tag = "*"
 #
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
+#[[filter]]
+#  name = "Internal project"
+#  tag = "Deep Learning"
+#
+#[[filter]]
+#  name = "Predictive quantum chemical theories"
+#  tag = "Deep Learning"
+#
 #
 # [[filter]]
-#   name = "Other"
+#   name = "Simulating liquid-jet XPS"
 #   tag = "Demo"
 
 +++
