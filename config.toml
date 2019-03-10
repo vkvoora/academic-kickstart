@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://vkvoora.github.io/"
 
 # Title of your site
-title = "Voora lab"
+title = "Quantum Chemistry Group"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-133040192-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "vamsee.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "vamsee.voora@gmail.com"
+  email = "vamsee[dot]voora[at]tifr.res.in"
   #address = ""
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   office_hours = "Email for appointment"
@@ -136,7 +136,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -288,28 +288,43 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#overview"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Vamsee"
+  url = "#about"
   weight = 2
-
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 3
 
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 5
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
+
+[[menu.main]]
+  name = "Openings"
+  url = "#openings"
+  weight = 6
+
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

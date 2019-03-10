@@ -5,14 +5,14 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 2
 
 # List your academic interests.
 [interests]
   interests = [
     "Response theory based method development",
-    "Fast computation of ionization energies",
-    "Weak Interactions"
+    "Fast computation of one-electron properties",
+    "Intermolecular interactions"
   ]
 
 # List your qualifications (such as academic degrees).

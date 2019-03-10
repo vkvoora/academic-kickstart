@@ -3,7 +3,9 @@
 title = "Fast computation of ionization potentials"
 
 # Date this page was created.
-#date = 2018-12-10T00:00:00
+date = "2019-01-01"
+hidedate = true
+
 
 # Project summary to display on homepage.
 summary = "Theoretical tools for recent advances in photoelectron spectroscopy"
@@ -45,4 +47,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect one-electron properties. To these ends the group will work on implementing various chemical models based on Green's function methods and generalized Koopmans' theorem. The developed methods, for example, will be used in conjuction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.        
+An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect electron  binding and transport properties. To these ends the group will work on implementing various chemical models based on Green's function methods and generalized Koopmans' theorem. The developed methods, for example, will be used in conjunction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.        

@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Predictive theories"
+title = "Predictive theories for extended systems"
 
 # Date this page was created.
-#date = "2018-12-10T00:00:00"
+date = "2019-01-01"
 
 # Project summary to display on homepage.
 summary = "Response-theory based method development."
@@ -45,5 +45,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-With looming materials challenges and development of materials with unforseen properties it is imperative to understand the physical and chemical mechanism underlying such materials. This can, inturn, lead to valuable new design principles. However, the current theoretical tools suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. Towards this end we will develop theoretical tools that can help describe multiple chemical properties and enable new design principles. 
-The method development will be based on response-theory type formalism that has been successful in predicting multiple properties of molecules and materials at a reasonable accuracy. 
+With looming challenges for energy generation and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization  suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing. We will therefore develop theoretical tools that can help describe multiple chemical properties and enable new design principles. The method development will be based on a response-theory type formalism called Adiabatic connection fluctuation dissipation theorem (ACFDT). The simplest approximation within ACFDT, called Random Phase approximation, for example, has been successful in predicting multiple properties of molecules and materials at a reasonable accuracy and computational cost. We will therefore develop methods based on ACFDT to study interlayer interactions in layered materials, adsorption energies of molecules on layered materials, encapsulation energies of small molecules, etc. 

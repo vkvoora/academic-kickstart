@@ -1,0 +1,199 @@
+@article{al2012assessment,
+  title={An assessment of the vdW-TS method for extended systems},
+  author={Al-Saidi, WA and Voora, Vamsee K and Jordan, Kenneth D},
+  journal={Journal of chemical theory and computation},
+  volume={8},
+  number={4},
+  pages={1503--1513},
+  year={2012},
+  publisher={American Chemical Society}
+}
+
+@article{voora2011density,
+  title={Density functional theory study of pyrophyllite and M-montmorillonites (M= Li, Na, K, Mg, and Ca): Role of dispersion interactions},
+  author={Voora, Vamsee K and Al-Saidi, WA and Jordan, Kenneth D},
+  journal={The Journal of Physical Chemistry A},
+  volume={115},
+  number={34},
+  pages={9695--9703},
+  year={2011},
+  publisher={ACS Publications}
+}
+
+@article{vysotskiy2012benchmark,
+  title={Benchmark calculations of the energies for binding excess electrons to water clusters},
+  author={Vysotskiy, Victor P and Cederbaum, Lorenz S and Sommerfeld, Thomas and Voora, Vamsee K and Jordan, Kenneth D},
+  journal={Journal of chemical theory and computation},
+  volume={8},
+  number={3},
+  pages={893--900},
+  year={2012},
+  publisher={American Chemical Society}
+}
+
+@article{breen2011bottom,
+  title={Bottom-up view of water network-mediated CO2 reduction using cryogenic cluster ion spectroscopy and direct dynamics simulations},
+  author={Breen, Kristin J and DeBlase, Andrew F and Guasco, Timothy L and Voora, Vamsee K and Jordan, Kenneth D and Nagata, Takashi and Johnson, Mark A},
+  journal={The Journal of Physical Chemistry A},
+  volume={116},
+  number={3},
+  pages={903--912},
+  year={2011},
+  publisher={American Chemical Society}
+}
+
+@article{voora2013existence,
+  title={Existence of a correlation bound s-type anion state of C60},
+  author={Voora, Vamsee K and Cederbaum, Lorenz S and Jordan, Kenneth D},
+  journal={The journal of physical chemistry letters},
+  volume={4},
+  number={6},
+  pages={849--853},
+  year={2013},
+  publisher={American Chemical Society}
+}
+
+@article{voora2012self,
+  title={A self-consistent polarization potential model for describing excess electrons interacting with water clusters},
+  author={Voora, Vamsee K and Ding, Jing and Sommerfeld, Thomas and Jordan, Kenneth D},
+  journal={The Journal of Physical Chemistry B},
+  volume={117},
+  number={16},
+  pages={4365--4370},
+  year={2012},
+  publisher={American Chemical Society}
+}
+
+@article{voora2013nonvalence,
+  title={Nonvalence correlation-bound anion state of C6F6: Doorway to low-energy electron capture},
+  author={Voora, Vamsee K and Jordan, Kenneth D},
+  journal={The Journal of Physical Chemistry A},
+  volume={118},
+  number={35},
+  pages={7201--7205},
+  year={2013},
+  publisher={American Chemical Society}
+}
+
+@incollection{jordan2015negative,
+  title={Negative electron affinities from conventional electronic structure methods},
+  author={Jordan, Kenneth D and Voora, Vamsee K and Simons, Jack},
+  booktitle={Thom H. Dunning, Jr.},
+  pages={85--99},
+  year={2015},
+  publisher={Springer, Berlin, Heidelberg}
+}
+
+@article{voora2014nonvalence,
+  title={Nonvalence correlation-bound anion states of spherical fullerenes},
+  author={Voora, Vamsee K and Jordan, Kenneth D},
+  journal={Nano letters},
+  volume={14},
+  number={8},
+  pages={4602--4606},
+  year={2014},
+  publisher={American Chemical Society}
+}
+
+@article{odbadrakh2015application,
+  title={Application of electronic structure methods to coupled Drude oscillators},
+  author={Odbadrakh, TT and Voora, V and Jordan, KD},
+  journal={Chemical Physics Letters},
+  volume={630},
+  pages={76--79},
+  year={2015},
+  publisher={North-Holland}
+}
+
+@article{voora2015nonvalence,
+  title={Nonvalence correlation-bound anion states of polycyclic aromatic hydrocarbons},
+  author={Voora, Vamsee K and Jordan, Kenneth D},
+  journal={The journal of physical chemistry letters},
+  volume={6},
+  number={20},
+  pages={3994--3997},
+  year={2015},
+  publisher={American Chemical Society}
+}
+
+@article{chen2017random,
+  title={Random-phase approximation methods},
+  author={Chen, Guo P and Voora, Vamsee K and Agee, Matthew M and Balasubramani, Sree Ganesh and Furche, Filipp},
+  journal={Annual review of physical chemistry},
+  volume={68},
+  pages={421--445},
+  year={2017},
+  publisher={Annual Reviews}
+}
+
+@article{fieser2017comparisons,
+  title={Comparisons of lanthanide/actinide+ 2 ions in a tris (aryloxide) arene coordination environment},
+  author={Fieser, Megan E and Palumbo, Chad T and La Pierre, Henry S and Halter, Dominik P and Voora, Vamsee K and Ziller, Joseph W and Furche, Filipp and Meyer, Karsten and Evans, William J},
+  journal={Chemical science},
+  volume={8},
+  number={11},
+  pages={7424--7433},
+  year={2017},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{konst2017synthesis,
+  title={Synthesis facilitates an understanding of the structural basis for translation inhibition by the lissoclimides},
+  author={K{\"o}nst, Zef A and Szklarski, Anne R and Pellegrino, Simone and Michalak, Sharon E and Meyer, M{\'e}lanie and Zanette, Camila and Cencic, Regina and Nam, Sangkil and Voora, Vamsee K and Horne, David A and others},
+  journal={Nature Chemistry},
+  volume={9},
+  number={11},
+  pages={1140--1149},
+  year={2017},
+  publisher={Nature Research}
+}
+
+@article{voora2017theoretical,
+  title={Theoretical approaches for treating non-valence correlation-bound anions},
+  author={Voora, Vamsee K and Kairalapova, Arailym and Sommerfeld, Thomas and Jordan, Kenneth D},
+  journal={The Journal of chemical physics},
+  volume={147},
+  number={21},
+  pages={214114},
+  year={2017},
+  publisher={AIP Publishing}
+}
+
+@article{palumbo2018metal,
+  title={Metal versus Ligand Reduction in Ln3+ Complexes of a Mesitylene-Anchored Tris (Aryloxide) Ligand},
+  author={Palumbo, Chad T and Halter, Dominik P and Voora, Vamsee K and Chen, Guo P and Chan, Alan K and Fieser, Megan E and Ziller, Joseph W and Hieringer, Wolfgang and Furche, Filipp and Meyer, Karsten and others},
+  journal={Inorganic chemistry},
+  volume={57},
+  number={5},
+  pages={2823--2833},
+  year={2018},
+  publisher={American Chemical Society}
+}
+
+
+@article{Palumbo2018InorgChemp12876,
+author = {Palumbo, Chad T. and Halter, Dominik P. and Voora, Vamsee K. and Chen, Guo P. and Ziller, Joseph W. and Gembicky, Milan and Rheingold, Arnold L. and Furche, Filipp and Meyer, Karsten and Evans, William J.},
+title = {Using Diamagnetic Yttrium and Lanthanum Complexes to Explore Ligand Reduction and C--H Bond Activation in a Tris(aryloxide)mesitylene Ligand System},
+journal = {Inorganic Chemistry},
+volume = {57},
+number = {20},
+pages = {12876-12884},
+year = {2018},
+doi = {10.1021/acs.inorgchem.8b02053},
+
+URL = { 
+        https://doi.org/10.1021/acs.inorgchem.8b02053
+    
+},
+eprint = { 
+        https://doi.org/10.1021/acs.inorgchem.8b02053
+    
+}
+
+}
+
+@article{ajala2018assessment,
+  title={Assessment of Density Functional Theory in Predicting Interaction Energies Between Water and Polycyclic Aromatic Hydrocarbons: From Water on Benzene to Water on Graphene},
+  author={Ajala, Adeayo and Voora, Vamsee K and Mardirossian, Narbe and Furche, Filipp and Paesani, Francesco},
+  year={2018}
+}
