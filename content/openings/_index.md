@@ -15,7 +15,7 @@ weight = 6
 
 +++
 
-TIFR is a leading research institute with a focus on fundamental research, and provides various opportunities for collaborative projects. My group is interested in developing robust first-principles based quantum chemistry methods with a focus on understanding charge-accommodation and charge-transport problems. If you would like to be a part of the quantum chemistry team at TIFR, then please consider the following options 
+TIFR is a leading research institute with a focus on fundamental research, and provides various opportunities for collaborative projects. My group is interested in developing robust first-principles based quantum chemistry methods with a focus on understanding charge-accommodation and charge-transport problems. If you would like to be a part of the quantum chemistry team at TIFR, please consider the following options 
 
 **Postdoctoral researcher:** 
 We currently have an opening for a postdoctoral researcher. The project involves developing and/or applying quantum chemistry methods for understanding electron-structure of liquids. If you are interested, please send me an email containing a one-page write-up describing your research background and interests. 

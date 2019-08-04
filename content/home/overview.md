@@ -15,6 +15,6 @@ weight = 1
 
 +++
 
-In the quantum chemistry group at TIFR, we characterize the nature of "one-electron" in many-electron systems --- ranging from atoms, molecules to materials --- using ab initio theoretical approaches. This has direct implications towards understanding photoelectron spectroscopies and electron transfer process that are fundamental gateways to redox reactions, catalysis and solar-energy capture. Our research involves developing first-principles based theoretical formalisms, formulating algorithms and computer codes that are tailored for modern supercomputers, and close collaboration with experimental groups to tackle current problems in charge-transfer processes.
+In the quantum chemistry group at TIFR, we characterize the nature of "one-electron" in many-electron systems --- ranging from atoms, molecules to materials --- using ab initio theoretical approaches. This has direct implications towards understanding photoelectron spectroscopies and electron transfer process that are fundamental gateways to redox reactions, catalysis and solar-energy capture. Our research involves developing first-principles based theoretical formalisms, algorithms and computer codes that are tailored for modern supercomputers. We closely collaborate with experimental groups to tackle current problems in charge-transfer processes.
 
-*If you are interested in joining the research group, please refer to the [openings](#openings) page.*
+*If you are interested in joining the group, please refer to the [positions](/openings/) page.*

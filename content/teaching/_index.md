@@ -15,47 +15,24 @@ This course aims to  develop a quantitative understanding of chemical binding.  
 ## Assignments
 ### [Assignment 0]({{< ref path="0.md" >}})
 ### [Assignment 1]({{< ref path="1.md" >}})
+### [Assignment 2]({{< ref path="2.md" >}})
 
-### Assignment 2
+### Assignment 3
 
-*(Due 21/03/2019)* 
+*(Due 17/05/2019)* 
 
-2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi\_1$ and $\psi_2$). 
-a) Construct the two possible Slate determinants and obtain their expectation value of the energy. 
-b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
-c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
-d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)
 
-2.2 For the minimal basis H$\_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
-$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
-, $\vert \Phi\_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant, 
-$\vert 1 \rangle = \vert  \sigma\_g1s \alpha \rangle$, 
-$\vert \bar 1 \rangle = \vert  \sigma\_g1s \beta \rangle$,
-$\vert 2 \rangle = \vert  \sigma\_u1s \alpha \rangle$, and
-$\vert \bar 2 \rangle = \vert  \sigma\_u1s \beta \rangle$ ), 
-show that the full CI Hamiltonian matrix  
-$$\mathbf{H} = \begin{pmatrix} 
-\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
-+ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle  
-&
- \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
-\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &
-\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
-+ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
-\end{pmatrix}$$
-and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that 
-$$\mathbf{H} = \begin{pmatrix} 
-2 h\_{11} + J\_{11} & J\_{12} \newline
-J\_{21}  &  2 h\_{22} + J\_{22} \newline
-\end{pmatrix} \;\text{. (15pts)}$$. 
+3.1 From Ostlund and Szabo, solve Excercises 3.31 (5 pts), 3.32 (5 pts), 4.10 (5 pts), 4.11 (5 pts), 4.12 (15 pts). 
 
-2.3 Show that the Hartree products
-$$
-\Psi\_a(\mathbf r\_1, \mathbf r\_2) = \psi\_1(\mathbf r\_1)\alpha(s\_1) \psi\_2(\mathbf r_2)\beta(s_2) $$
-$$ \Psi\_b(\mathbf r\_1, \mathbf r\_2) = \psi\_1(\mathbf r\_1)\alpha(s\_1) \psi\_2(\mathbf r_2)\alpha(s_2) $$
-a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi\_a$, i.e
-$$ \psi\_1(\mathbf r\_1)\alpha(s\_1) \psi\_2(\mathbf r_2)\beta(s_2) -
-\psi\_2(\mathbf r\_1)\beta(s\_1) \psi\_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$. 
+3.2 Solve for the second-order wavefunction in Rayleigh--Schrodinger perturbation theory, and obtain the third-order energy expression. (5 pts)
+
+3.3 Show that the  ground-state non-interacting kinetic energy and total energy of a N-electron system is given by 
+$$\begin{eqnarray} 
+T\_s[\rho] &=& \sum\_{i=1}^N\int d\mathbf r\chi\_{i}^{*}(\mathbf x)(\varepsilon\_i^{KS} - v\_s(\mathbf r))\chi\_{i}(\mathbf x) \\\\\\
+E\_0[\rho] &=& \sum\_{i=1}^{N}\varepsilon\_i^{KS} -  \int d\mathbf r  v\_{xc}(\mathbf r)\rho(\mathbf r) - E\_{H}[\rho] + E\_{xc}[\rho].
+\end{eqnarray}$$
+
+$\chi\_i$ and $\varepsilon\_i^{KS}$ are canonical KS orbitals and orbital energies. (5 pts)
 
 
 
